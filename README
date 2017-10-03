@@ -1,0 +1,1 @@
+Monte Carlo Tree Search algorithm implemented in Haskell. I used MCTS to implement X and 0 game.
